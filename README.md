@@ -190,6 +190,6 @@ Revise os gráficos que mostram o desempenho do modelo. O gráfico de resíduos 
 5. Clique no botão Testar .
 
 6. Revise os resultados do teste, que incluem um número previsto de aluguéis com base nos recursos de entrada - semelhante a este:
-### (o resultado vai estar nesse repositorio com o nome resultado.json)
+### (o resultado vai estar nesse repositorio com o nome resultado.json, que foi o meu propio resultado)
 
 Fonte: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
